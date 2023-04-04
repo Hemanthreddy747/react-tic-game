@@ -1,9 +1,10 @@
 {
+  "homepage": "https://hemanthreddy747.github.io/2",
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
+    
   "dependencies": {
-    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.4"
@@ -25,5 +26,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://harman052.github.io/react-tutorial-solutions"
+  "homepage": "https://harman052.github.io/react-tutorial-solutions",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
